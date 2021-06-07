@@ -1,0 +1,26 @@
+*{
+	margin: auto;
+	padding-top: 10px;
+	max-width: 700px;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #FFF9EB;
+}
+
+h1 {
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+h2 {
+	padding-top: 50px;
+	padding-bottom: 75px;
+}
+
+h3 {
+	padding-top: 25px;
+}
+
+p {
+	padding-bottom: 25px;
+}
